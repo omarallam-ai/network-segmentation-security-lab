@@ -111,3 +111,11 @@ This project helped reinforce several networking and security concepts:
 - The importance of testing network policies using tools such as ping and connectivity checks
 
 It also required troubleshooting connectivity issues while verifying that the access rules behaved as expected.
+
+---
+
+## Methodology Note
+
+All network design, VLAN configuration, and ACL testing were performed manually using Cisco Packet Tracer.  
+Screenshots and network behavior verification were captured directly from the simulator.  
+AI assistance was used only to help structure, format, and refine the final report and README documentation.
