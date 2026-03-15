@@ -68,3 +68,49 @@ This design simulates how organizations restrict communication between departmen
 ---
 
 ## Project Structure
+
+
+
+---
+
+## Screenshots
+
+### Network Topology
+
+![Topology](topology/network-topology.png)
+
+### HR Access Restricted
+
+![HR Block Test](screenshots/"HR PC.png")
+
+### Sales Access to Server
+
+![Sales Server Access](screenshots/"Sales PC.png")
+
+### IT Access to Server
+
+![IT Server Access](screenshots/"IT PC.png")
+
+---
+
+## Security Concepts Demonstrated
+
+- Network segmentation
+- VLAN isolation
+- Inter-VLAN routing
+- Access Control Lists (ACLs)
+- Basic internal network access control
+- Limiting lateral movement inside a network
+
+---
+
+## What I Learned
+
+This project helped reinforce several networking and security concepts:
+
+- How VLANs can separate departments within the same physical network
+- How routers enable communication between VLANs
+- How ACLs can be used to enforce security boundaries between networks
+- The importance of testing network policies using tools such as ping and connectivity checks
+
+It also required troubleshooting connectivity issues while verifying that the access rules behaved as expected.
