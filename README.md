@@ -65,9 +65,6 @@ Access Control Lists were configured to enforce the following rules:
 
 This design simulates how organizations restrict communication between departments while allowing access to shared infrastructure.
 
----
-
-## Project Structure
 
 
 
