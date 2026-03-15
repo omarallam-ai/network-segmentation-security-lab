@@ -81,15 +81,15 @@ This design simulates how organizations restrict communication between departmen
 
 ### HR Access Restricted
 
-![HR Block Test](screenshots/HR PC.png)
+![HR Block Test](screenshots/HR-PC.png)
 
 ### Sales Access to Server
 
-![Sales Server Access](screenshots/Sales PC.png)
+![Sales Server Access](screenshots/Sales-PC.png)
 
 ### IT Access to Server
 
-![IT Server Access](screenshots/IT PC.png)
+![IT Server Access](screenshots/IT-PC.png)
 
 ---
 
